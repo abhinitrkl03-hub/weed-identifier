@@ -1,0 +1,5 @@
+# Use the SAME TensorFlow version that Colab printed during training
+tensorflow-cpu==2.20.0
+streamlit
+pillow
+numpy
